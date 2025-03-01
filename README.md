@@ -31,6 +31,7 @@ To enhance model robustness, we incorporated macroeconomic and technical indicat
 ### 📜 Main Files
 - **`DL Week'25 Finance Track Report - Lean Large Men.pdf`** - Full project report detailing methodology, implementation, and results.
 - **`LeanLargeMen_DLWeek2025.pptx`** - Presentation slides summarizing the project.
+- **`LeanLargeMen_DLWeek2025.pdf`** - Presentation slides summarizing the project in PDF form. 
 - **`Deep RL approach.ipynb`** - Implementation of the Deep Q-Network (DQN) reinforcement learning model.
 - **`LSTM approach.ipynb`** - Implementation of the LSTM-Transformer hybrid model for price prediction.
 
