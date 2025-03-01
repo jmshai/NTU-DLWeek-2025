@@ -2,7 +2,7 @@
 
 ## Team Lean Large Men - AI-Powered Trading Strategy (Finance Track)
 
-This repository contains the submission by **Team Lean Large Men** for the **NTU Deep Learning Week 2025** competition, held from **February 28, 2025, to March 3, 2025**. Our project explores AI-driven trading strategies, leveraging **deep reinforcement learning (DQN)** and **LSTM-Transformer models** to analyze and predict financial market movements.
+This repository contains the submission by **Team Lean Large Men** for the **NTU Deep Learning Week 2025** competition, held from **February 28, 2025, to March 3, 2025**. Our project explores AI-driven trading strategies, leveraging **deep reinforcement learning (DQN)** and **LSTM models** to analyze and predict financial market movements.
 
 ---
 
@@ -11,7 +11,7 @@ This repository contains the submission by **Team Lean Large Men** for the **NTU
 Our work critically examines the challenges of algorithmic trading, acknowledging the complexities of financial markets where statistical relationships are constantly shifting. While outperforming institutional-grade quantitative firms remains unrealistic, our approach provides valuable insights into the application of deep learning in financial modeling.
 
 ### 🔹 Implemented AI Strategies
-- **LSTM-Transformer Hybrid Model**: Designed for price prediction, capturing both short-term and long-term dependencies in market data.
+- **LSTM Model**: Designed for price prediction, capturing both short-term and long-term dependencies in market data.
 - **Deep Q-Network (DQN) Reinforcement Learning Agent**: An adaptive trading strategy that learns from market conditions to optimize decision-making.
 
 ### 📊 Key Features & Indicators
